@@ -1,0 +1,194 @@
+body{
+    margin: 0px;
+
+}
+.black{
+    height: 70px;
+    width: 1400px;
+    background-color: rgb(57, 61, 60);
+    padding: 10px;
+
+}
+.create{
+    height: 40px;
+    width: 120px;
+    background-color: black;
+    color: gray;
+    border: 10pc;
+    border-color: aqua;
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-top: -10px;
+    
+}
+.INLINE{
+    display: flex;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+.log{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+
+   
+}
+.lo{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+ 
+}
+.l{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+
+
+
+}
+.cart{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;}
+.colorlib{
+    height: 50px;
+    margin-top: 10px;
+
+    width: 100px;
+}
+.social{
+    height: 50px;
+    width: 1300px;
+    background-color: gray;
+    margin-top: 0px;
+    display: flex;
+}
+.fb{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 900px;
+}
+.insta{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}.twit{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}.in{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+} 
+.back{
+    background-image: url('./hh.jpg');
+    height: 250px;
+    width: 1350px;
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    padding-top: 290px;
+    padding-left: 340px;
+}
+.main{
+    font-size: 50px;
+}
+
+
+.play{
+    background-color: rgb(10, 223, 98);
+    color: rgb(0, 0, 0);
+    border: 10px;
+    border-radius: 10px;
+    height: 50px;
+    width: 160px;
+    margin-left: 290px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 20px;
+
+
+
+}
+.head{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.one{
+    height: 100px;
+    width: 50px;
+    padding-right: 30px;
+}
+.two{
+    height: 100px;
+    width: 50px;
+    padding-right: 30px;
+}
+.Thre{
+    height: 100px;
+    width: 50px;
+    padding-right: 30px;
+}
+.none{
+    display: inline-block;
+}
+
+.onepic{
+    height: 400px;
+    width: 400px;    margin-left: 20px;
+
+
+}
+.twopic{
+    height: 400px;
+    width: 400px;
+    margin-left: 20px;
+
+}
+.tthre{
+    height: 400px;
+    width: 400px;
+    margin-left: 20px;
+}
+.fourpic{
+    height: 400px;
+    width: 400px;    margin-left: 20px;
+
+
+}
+.fivepic{
+    height: 400px;
+    width: 400px;
+    margin-left: 20px;
+
+}
+.six{
+    height: 400px;
+    width: 400px;
+    margin-left: 20px;
+}
+.blck{
+    background-color: black;
+    height: 500px;
+    width: 1300px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.lggo{
+    height: 400px;
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.lorem{
+    color: white;
+}
